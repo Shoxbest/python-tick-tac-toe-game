@@ -1,1 +1,1 @@
-# python-tick-tac-toe-game
+# python-dice-game
